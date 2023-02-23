@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Dog Facts Page",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -49,7 +49,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_DogFacts",
+  "id": "Dog Facts Page_DogFacts",
   "deleted": false,
   "gitSyncId": "639a8c642fe9cc650d2b6b8f_639a8d102fe9cc650d2b6b93"
 }

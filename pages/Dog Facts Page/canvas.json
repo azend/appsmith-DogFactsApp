@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Dog Facts Page",
+    "slug": "dog-facts-page",
     "layouts": [
       {
         "viewMode": false,
@@ -193,7 +193,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_DogFacts",
+              "id": "Dog Facts Page_DogFacts",
               "name": "DogFacts",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -204,14 +204,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Dog Facts Page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "639a8c642fe9cc650d2b6b8f_639a8c642fe9cc650d2b6b91"
